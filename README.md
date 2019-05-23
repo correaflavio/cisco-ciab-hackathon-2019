@@ -37,7 +37,9 @@ Snapshot API: REST API que gera um snapshot da imagem de uma camera, em tempom r
 
 * [Meraki Scanning - WiFi & BLE](https://documentation.meraki.com/MR/Monitoring_and_Reporting/Scanning_API)
 
-Using the physical placement of each access point on the Map & Floorplan of the Dashboard, the Meraki cloud aggregates raw client location data reported and provides a real-time estimate on the location of Wi-Fi (associated and non-associated) and Bluetooth Low Energy (BLE) devices in real-time. The Scanning API delivers this data to your real-time location application, data warehouse, or business intelligence systems.
+Solução de conectividade WiFi e Bluetooth para uso em agências e pontos de venda com gerenciamento em nuvem de alta escalabilidade.
+
+Disponibiliza através de REST APIs informações e localização de dispositivos WiFi/BLE de funcionários e clientes para contagem de pessoas, tempo de visita, mapas de calor, controle de assets entre outras funções. A API disponibiliza em formato bruto informações de dispositivos WiFi e BLE em tempo real que podem ser integrados em aplicações de negócio.
 
 * [DNA Spaces - Portal and Engagement](http://cisco.com/go/webexteams)
 
