@@ -19,17 +19,21 @@ Estimular a criação de soluções que consigam extrair insights e realizar an�
 
 ## Instruções e code samples para o hackathon do CIAB 2019
 
-Em caso de dúvidas ou pedido de ajuda estamos disponívei realtime pela sala no Webex Teams do evento. Para acessar use acesse a URL: https://eurl.io/#HkzTo-Np4
+Em caso de dúvidas estamos disponíveis realtime pela sala no Webex Teams do evento. Para acessar use a URL: https://eurl.io/#HkzTo-Np4
 
 A Cisco está provendo as seguintes soluções da sua plataforma para developers - DevNet - para o Hackathon do CIAB:
 
 * [Meraki Sensor - Camera](https://developer.cisco.com/meraki/mv-sense/)
 
-Meraki Smart Cameras run an ML/CV model at the edge (on the camera) for object detection, classification, and tracking right out of the box. MV Sense is a collection of APIs that make the edge-computed people detection data from your MVs accessible for integration with business applications. Three types of data can be accessed:
+Solução de camera baseada em nuvem com armazenamento local e algorítmos de ML/CV processados localmente para detecção de objetos, classificação e tracking out of the box. Informações disponibilizadas via APIs para integração com aplicação de negócio com grande escalabilidade e facilidade.
 
-Historical Aggregate - How many people were here at time t ?
-Current Snapshot - How many people are here now?
-Real-time Feed - Sub-second data feed of people and their location via MQTT
+Tipos de APIs disponíveis:
+
+MV Sense: Disponivel via REST API e MQTT provendo informação histórica e real-time da detecção de pessoas.
+
+Live Link API: REST API que retorna um link para visualização da imagem da camera, se disponibilidado com um timestamp inicia o video nesse horario informado.
+
+Snapshot API: REST API que gera um snapshot da imagem de uma camera, em tempom real ou em um determinado instante no tempo.
 
 * [Meraki Scanning - WiFi & BLE](https://documentation.meraki.com/MR/Monitoring_and_Reporting/Scanning_API)
 
