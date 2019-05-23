@@ -23,10 +23,19 @@ Em caso de dúvidas ou pedido de ajuda estamos disponívei realtime pela sala no
 
 A Cisco está provendo as seguintes soluções da sua plataforma para developers - DevNet - para o Hackathon do CIAB:
 
-* [Umbrella](http://cisco.com/go/webexteams)
-* [Meraki](http://cisco.com/go/webexteams)
-* [DNA Spaces](http://cisco.com/go/webexteams)
-* [Webex Teams](http://cisco.com/go/webexteams)
+* [Umbrella Investigate - Cyber Security](https://docs.umbrella.com/developer/investigate-api/)
+
+Solução Cisco Webex plataforma de colaboração em tempo real que permite as pessoas se reunirem e colaborarem por vídeo, áudio, mensagem de qualquer dispositivo de modo ágil e fácil com colaboradores da empresa, parceiros de negócios e clientes, de qualquer local a qualquer momento, acelerando tomada de decisão, estreitando relacionamentos e aproximando as pessoas.
+ 
+Cisco Webex disponibiliza APIs, SDKs e Widgets, Open Source Bot Starter Kits, para que desenvolvedores de software possam construir suas aplicações e integrações incluindo experiência colaborativa no dia a dia dos processos e fluxo de trabalho das equipes.
+ 
+Os desenvolvedores podem acessar documentações e suporte necessários para desenvolvimento como APIs, SDKs e Widgets, Open Source Bot Starter Kits, se registrando gratuitamente em: https://developer.webex.com/index.html
+
+
+* [Meraki Sensor - Camera](https://developer.cisco.com/meraki/mv-sense/)
+* [Meraki Scanning - WiFi & BLE](https://documentation.meraki.com/MR/Monitoring_and_Reporting/Scanning_API)
+* [DNA Spaces - Portal and Engagement](http://cisco.com/go/webexteams)
+* [Webex Teams - Collaboration](http://cisco.com/go/webexteams)
 
 
 ## Hackathon Team Members
