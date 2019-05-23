@@ -23,19 +23,45 @@ Em caso de dúvidas ou pedido de ajuda estamos disponívei realtime pela sala no
 
 A Cisco está provendo as seguintes soluções da sua plataforma para developers - DevNet - para o Hackathon do CIAB:
 
-* [Umbrella Investigate - Cyber Security](https://docs.umbrella.com/developer/investigate-api/)
+* [Meraki Sensor - Camera](https://developer.cisco.com/meraki/mv-sense/)
+
+Meraki Smart Cameras run an ML/CV model at the edge (on the camera) for object detection, classification, and tracking right out of the box. MV Sense is a collection of APIs that make the edge-computed people detection data from your MVs accessible for integration with business applications. Three types of data can be accessed:
+
+Historical Aggregate - How many people were here at time t ?
+Current Snapshot - How many people are here now?
+Real-time Feed - Sub-second data feed of people and their location via MQTT
+
+* [Meraki Scanning - WiFi & BLE](https://documentation.meraki.com/MR/Monitoring_and_Reporting/Scanning_API)
+
+Using the physical placement of each access point on the Map & Floorplan of the Dashboard, the Meraki cloud aggregates raw client location data reported and provides a real-time estimate on the location of Wi-Fi (associated and non-associated) and Bluetooth Low Energy (BLE) devices in real-time. The Scanning API delivers this data to your real-time location application, data warehouse, or business intelligence systems.
+
+* [DNA Spaces - Portal and Engagement](http://cisco.com/go/webexteams)
+
+Permite que empresas organizações detectem, conectem e interajam com os usuários finais ou com os clientes enquanto estiverem em um local físico como uma agencia bancária.
+Detectar: ​​o sinal sem fio do dispositivo móvel do cliente e as características do dispositivo são detectados quando o cliente se aproxima de sua localização.
+Conectar: ​​depois que o cliente recebe a notificação de acesso e serviços Wi-Fi disponíveis, esse cliente pode se conectar com segurança. Informações do cliente podem ser capturadas nessa fase.
+Envolva: assim que os clientes tiverem acesso, você poderá envolvê-los com conteúdo personalizado. Por meio dessa comunicação bidirecional, você pode criar um relacionamento de valor agregado em tempo real com seus clientes.
+
+* [Webex Teams - Collaboration](http://cisco.com/go/webexteams)
 
 Solução Cisco Webex plataforma de colaboração em tempo real que permite as pessoas se reunirem e colaborarem por vídeo, áudio, mensagem de qualquer dispositivo de modo ágil e fácil com colaboradores da empresa, parceiros de negócios e clientes, de qualquer local a qualquer momento, acelerando tomada de decisão, estreitando relacionamentos e aproximando as pessoas.
- 
+
 Cisco Webex disponibiliza APIs, SDKs e Widgets, Open Source Bot Starter Kits, para que desenvolvedores de software possam construir suas aplicações e integrações incluindo experiência colaborativa no dia a dia dos processos e fluxo de trabalho das equipes.
  
 Os desenvolvedores podem acessar documentações e suporte necessários para desenvolvimento como APIs, SDKs e Widgets, Open Source Bot Starter Kits, se registrando gratuitamente em: https://developer.webex.com/index.html
 
+* [Umbrella Investigate - Cyber Security](https://docs.umbrella.com/developer/investigate-api/)
 
-* [Meraki Sensor - Camera](https://developer.cisco.com/meraki/mv-sense/)
-* [Meraki Scanning - WiFi & BLE](https://documentation.meraki.com/MR/Monitoring_and_Reporting/Scanning_API)
-* [DNA Spaces - Portal and Engagement](http://cisco.com/go/webexteams)
-* [Webex Teams - Collaboration](http://cisco.com/go/webexteams)
+In a single, correlated source, Investigate provides the most complete view of the relationships and evolution of domains, IPs, autonomous systems (ASNs), and file hashes, and adds the security context needed to help you uncover and predict threats.
+ 
+Investigate leverages a live graph database of DNS requests and other contextual data. We take this massive amount of data and apply statistical models to it.
+This helps us automatically discover and predict malicious domains and IPs.
+
+Additionally, with this information, you can enrich your existing security data with our global intelligence.
+
+## DevNet
+
+O DevNet é o portal da comunidade de desenvolvedores da Cisco, que conta atualmente com mais de 500.000 membros e disponibiliza ferramentas como learning labs para aprendizado da tecnologia e sandbox para desenvolvimento e testes para as múltiplas arquiteturas da Cisco como redes corporativas, segurança, IoT, data center, colaboração, através de APIs. O portal que foi premiado em 2018 pelo Dev Portal Awards – conta também com uma área exclusiva para compartilhamento de códigos feitos pela comunidade e que passaram por uma curadoria, chamado de DevNet Code Exchange, e também uma área somente para empresas parceiros divulgarem suas soluções criadas sobre infraestrutura Cisco chamado de Ecosystem Exchange.
 
 
 ## Hackathon Team Members
